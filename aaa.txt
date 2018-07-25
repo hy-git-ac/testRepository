@@ -1,3 +1,6 @@
 abcdef
 ghijkl
+<<<<<<< HEAD
 mnopqr
+=======
+>>>>>>> origin/master
